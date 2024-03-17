@@ -11,17 +11,17 @@ Missing Chatr mobile network carrier as an option when selecting to add phone no
 4. Choose a carrier from the drop-down list that appears after selecting your country
 
 ## Expected Behavior:
-I expected a Chatr option to be included in the list
+I expected a Chatr option to be included in the list.
 
 ## Screenshots/Video:
 ![image](https://github.com/Mouna121/AhmedAlmouna-BugReports/assets/163431268/dfaedefe-ba6e-4580-bd5c-b75963ddeaea)
 
 
 ## Device:
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari, firefox, edge]
- - Resolution [e.g. 2560 X 1289]
- - Version [e.g. 22]
+ - OS: [Windows 11]
+ - Browser [Chrome]
+ - Resolution [1920 x 1080]
+ - Date [3/17/2024]
 
 ## Additional Context:
-Add any other context about the problem here.
+None
