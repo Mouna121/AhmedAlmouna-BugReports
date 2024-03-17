@@ -17,7 +17,7 @@ If applicable, add screenshots/videos to help explain your problem.
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari, firefox, edge]
  - Resolution [e.g. 2560 X 1289]
- - Version [e.g. 22]
+ - Date [month/day/year]
 
 ## Additional Context:
 Add any other context about the problem here.
