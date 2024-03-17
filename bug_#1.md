@@ -1,17 +1,21 @@
 ## Software:
-What is the software.
+desire2learn URL: https://conestoga.desire2learn.com/d2l/home
 
 ## Bug Description:
-A clear and concise description of what the bug is.
+Missing Chatr mobile network carrier as an option when selecting to add phone notification.
 
 ## Steps to Reproduce:
-Steps to reproduce the bug. 
+1. Click on the profile icon
+2. Select 'Notifications' from the menu
+3. Click 'Register your mobile
+4. Choose a carrier from the drop-down list that appears after selecting your country
 
 ## Expected Behavior:
-A clear and concise description of what you expected to happen.
+I expected a Chatr option to be included in the list
 
 ## Screenshots/Video:
-If applicable, add screenshots/videos to help explain your problem.
+If applicable, add screenshots/videos to help explain your problem.![image](https://github.com/Mouna121/AhmedAlmouna-BugReports/assets/163431268/dfaedefe-ba6e-4580-bd5c-b75963ddeaea)
+
 
 ## Device:
  - OS: [e.g. iOS]
