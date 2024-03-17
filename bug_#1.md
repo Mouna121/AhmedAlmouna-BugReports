@@ -1,5 +1,5 @@
 ## Software:
-What is the software...
+What is the software.
 
 ## Bug Description:
 A clear and concise description of what the bug is.
