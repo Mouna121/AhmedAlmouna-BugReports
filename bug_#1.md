@@ -14,7 +14,7 @@ Missing Chatr mobile network carrier as an option when selecting to add phone no
 I expected a Chatr option to be included in the list
 
 ## Screenshots/Video:
-If applicable, add screenshots/videos to help explain your problem.![image](https://github.com/Mouna121/AhmedAlmouna-BugReports/assets/163431268/dfaedefe-ba6e-4580-bd5c-b75963ddeaea)
+![image](https://github.com/Mouna121/AhmedAlmouna-BugReports/assets/163431268/dfaedefe-ba6e-4580-bd5c-b75963ddeaea)
 
 
 ## Device:
