@@ -14,7 +14,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots/videos to help explain your problem.
 
 ## Device:
- - OS: [e.g. iOS]
+ - OS: [e.g. iOS, Windows, Mac]
  - Browser [e.g. chrome, safari, firefox, edge]
  - Resolution [e.g. 2560 X 1289]
  - Date [month/day/year]
